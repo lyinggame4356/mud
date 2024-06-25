@@ -1,0 +1,7 @@
+Mnesia.nonode@nohost/*
+*.pie
+TEST-*.xml
+ebin/*.beam
+*.swp
+.DS_Store
+erl_crash.dump
